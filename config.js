@@ -1,7 +1,7 @@
 let fs = require('fs')
 
-global.owner = ['6281227144597','6281228402912'] // Put your number here
-global.mods = ['6281228402912'] // Want some help?
+global.owner = ['6288291577991','6288291577991'] // Put your number here
+global.mods = ['13156276079'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -29,7 +29,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ``
-global.author = '🌹 ZaBot-MD 🌹'
+global.author = '🌹 Zandy-MD 🌹'
 global.email = 'ozan6825@hotmail'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© ZaBot-MD'
